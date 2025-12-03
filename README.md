@@ -26,6 +26,11 @@ _Herramientas utilizadas para crear el proyecto_
 * Json 13.0.3
 * [Kotlin Android FrontEnd](https://github.com/juanfra312003/pack-my-trip)
 
+## Características adicionales 🛠️
+
+* Desplegado en la nube de azure
+* DevOps
+
 
 ## Desarrollado por: 💻
 * [Edgar Julián González Sierra](https://github.com/ejgonzalez16)
