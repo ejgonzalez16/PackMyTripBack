@@ -1,24 +1,24 @@
 # PackMyTripBackEnd
 
-_BackEnd de una Aplicación innovadora fácil, ágil y sencilla para entusiastas en: creación de paquetes turísticos (intermediario), publicación de servicios turísticos (operador) y agendamiento de paquetes (turista)._
+_Backend of an easy, agile and simple app for users interesed in: creation of tourism packages (intermediary), publishing tourism services (operator) and booking packages (tourists)._
 
 ### Pre-requisitos 📋
 
-_Software requerido:_
+_Required Software:_
 
 ```
 * SDK Microsoft.NET.Sdk.Web
 ```
 
-## Versión 📌
+## Version 📌
 
 ```
  1.0
 ```
 
-## Construido con 🛠️
+## Built with 🛠️
 
-_Herramientas utilizadas para crear el proyecto_
+_Tools used to create this project_
 
 * .NET 6.2.3
 * Dapper 2.1.44
@@ -26,12 +26,13 @@ _Herramientas utilizadas para crear el proyecto_
 * Json 13.0.3
 * [Kotlin Android FrontEnd](https://github.com/juanfra312003/pack-my-trip)
 
-## Características adicionales 🛠️
+## Additional features
+Características adicionales 🛠️
 
-* Desplegado en la nube de azure
+* Azure Deployment
 * DevOps
 
 
-## Desarrollado por: 💻
+## Developed by: 💻
 * [Edgar Julián González Sierra](https://github.com/ejgonzalez16)
 * [Juan Francisco Ramírez](https://github.com/juanfra312003)
